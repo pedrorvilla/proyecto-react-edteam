@@ -1,0 +1,3 @@
+header nav ul li a {
+    @apply text-xl font-semibold font-montserrat text-blue-950 hover:cursor-pointer hover:text-gray-500;
+}

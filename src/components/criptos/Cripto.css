@@ -1,0 +1,8 @@
+.list-cripto {
+    @apply p-3 bg-gray-300 rounded-md flex flex-col hover:scale-105 hover:bg-blue-300;
+}
+
+
+.info{
+    @apply font-bold text-sm italic;
+}
